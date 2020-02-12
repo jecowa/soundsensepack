@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <sounds>
 
-	<sound logPattern="The flying (.+) strikes (.+)" concurency="4" timeout="500" playbackThreshhold="4">
+	<sound logPattern="The flying (.+) strikes (.+)" channel="swords" concurency="4" timeout="500" playbackThreshhold="4">
 		<!-- http://opengameart.org/content/arrow-hit-twang -->
 		<soundFile fileName="hit/ranged/arrowHit01.mp3" randomBalance="true" />
 		<soundFile fileName="hit/ranged/arrowHit02.mp3" randomBalance="true" />
@@ -13,13 +13,13 @@
 		<soundFile fileName="hit/ranged/arrowHit08.mp3" randomBalance="true" />
 	</sound>
 
-	<sound logPattern="The (.+) strikes The (.+)" concurency="4" timeout="500" playbackThreshhold="4">
+	<sound logPattern="The (.+) strikes The (.+)" channel="swords" concurency="4" timeout="500" playbackThreshhold="4">
 		<soundFile fileName="hit/strike/strike1.mp3" />
 		<soundFile fileName="hit/strike/strike2.mp3" />
 		<soundFile fileName="hit/strike/strike3.mp3" />
 	</sound>
 	
-	<sound logPattern="(.+) hacks (.+)" concurency="4" timeout="500" playbackThreshhold="4">
+	<sound logPattern="(.+) hacks (.+)" channel="swords" concurency="4" timeout="500" playbackThreshhold="4">
 		<soundFile fileName="hit/slashhack/slashhack1.mp3" />
 		<soundFile fileName="hit/slashhack/slashhack2.mp3" />
 		<soundFile fileName="hit/slashhack/slashhack3.mp3" />
@@ -36,7 +36,7 @@
 		<soundFile fileName="hit/slashhack/slashhack14.mp3" />
 	</sound>
 	
-	<sound logPattern="(.+) slashes (.+)" concurency="4" timeout="500" playbackThreshhold="4">
+	<sound logPattern="(.+) slashes (.+)" channel="swords" concurency="4" timeout="500" playbackThreshhold="4">
 		<soundFile fileName="hit/slashhack/slashhack1.mp3" />
 		<soundFile fileName="hit/slashhack/slashhack2.mp3" />
 		<soundFile fileName="hit/slashhack/slashhack3.mp3" />
@@ -53,7 +53,7 @@
 		<soundFile fileName="hit/slashhack/slashhack14.mp3" />
 	</sound>
 	
-	<sound logPattern="(.+) stabs (.+)" concurency="4" timeout="500" playbackThreshhold="4">
+	<sound logPattern="(.+) stabs (.+)" channel="swords" concurency="4" timeout="500" playbackThreshhold="4">
 		<soundFile fileName="hit/stab/stab1.mp3" />
 		<soundFile fileName="hit/stab/stab2.mp3" />
 		<soundFile fileName="hit/stab/stab3.mp3" />
@@ -69,7 +69,7 @@
 
 	</sound>
 	
-	<sound logPattern="(.+) punches (.+)" concurency="4" timeout="500" playbackThreshhold="4">
+	<sound logPattern="(.+) punches (.+)" channel="swords" concurency="4" timeout="500" playbackThreshhold="4">
 		<soundFile fileName="hit/punch/punch1.mp3" />
 		<soundFile fileName="hit/punch/punch2.mp3" />
 		<soundFile fileName="hit/punch/punch3.mp3" />
@@ -80,7 +80,7 @@
 
 	</sound>
 	
-	<sound logPattern="(.+) lashes (.+)" concurency="4" timeout="500" playbackThreshhold="4">
+	<sound logPattern="(.+) lashes (.+)" channel="swords" concurency="4" timeout="500" playbackThreshhold="4">
 		<soundFile fileName="hit/lash/lash1.mp3" />
 		<soundFile fileName="hit/lash/lash2.mp3" />
 		<soundFile fileName="hit/lash/lash3.mp3" />
@@ -90,7 +90,7 @@
 		<soundFile fileName="hit/lash/lash7.mp3" />
 	</sound>
 	
-	<sound logPattern="(.+) pushes (.+)" concurency="4" timeout="500" playbackThreshhold="4">
+	<sound logPattern="(.+) pushes (.+)" channel="swords" concurency="4" timeout="500" playbackThreshhold="4">
 		<soundFile fileName="hit/push/push1.mp3" />
 		<soundFile fileName="hit/push/push2.mp3" />
 		<soundFile fileName="hit/push/push3.mp3" />
@@ -103,7 +103,7 @@
 		
 	</sound>
 	
-	<sound logPattern="(.+) scratches (.+)" concurency="4" timeout="500" playbackThreshhold="4">
+	<sound logPattern="(.+) scratches (.+)" channel="swords" concurency="4" timeout="500" playbackThreshhold="4">
 		<soundFile fileName="hit/scratch/scratch1.mp3" />
 		<soundFile fileName="hit/scratch/scratch2.mp3" />
 		<soundFile fileName="hit/scratch/scratch3.mp3" />
@@ -115,7 +115,7 @@
 		
 	</sound>
 	
-	<sound logPattern="(.+) kicks (.+)" concurency="4" timeout="500" playbackThreshhold="4">
+	<sound logPattern="(.+) kicks (.+)" channel="swords" concurency="4" timeout="500" playbackThreshhold="4">
 		<soundFile fileName="hit/punch/punch1.mp3" />
 		<soundFile fileName="hit/punch/punch2.mp3" />
 		<soundFile fileName="hit/punch/punch3.mp3" />
@@ -127,7 +127,7 @@
 
 	</sound>
 	
-	<sound logPattern="(.+) slaps (.+)" concurency="4" timeout="500" playbackThreshhold="4">
+	<sound logPattern="(.+) slaps (.+)" channel="swords" concurency="4" timeout="500" playbackThreshhold="4">
 		<soundFile fileName="hit/punch/punch1.mp3" />
 		<soundFile fileName="hit/punch/punch2.mp3" />
 		<soundFile fileName="hit/punch/punch3.mp3" />
@@ -138,7 +138,7 @@
 
 	</sound>
 	
-	<sound logPattern="(.+) bites (.+)" concurency="4" timeout="500" playbackThreshhold="4">
+	<sound logPattern="(.+) bites (.+)" channel="swords" concurency="4" timeout="500" playbackThreshhold="4">
 		<soundFile fileName="hit/bite/bite1.mp3" />
 		<soundFile fileName="hit/bite/bite2.mp3" />
 		<soundFile fileName="hit/bite/bite3.mp3" />
@@ -149,7 +149,7 @@
 
 	</sound>
 	
-	<sound logPattern="(.+) bashes (.+)" concurency="4" timeout="500" playbackThreshhold="4">
+	<sound logPattern="(.+) bashes (.+)" channel="swords" concurency="4" timeout="500" playbackThreshhold="4">
 		<soundFile fileName="hit/bash/bash1.mp3" />
 		<soundFile fileName="hit/bash/bash2.mp3" />
 		<soundFile fileName="hit/bash/bash3.mp3" />
@@ -164,7 +164,7 @@
 		<soundFile fileName="hit/bash/bash12.mp3" />
 	</sound>
 	
-	<sound logPattern="(.+) gores (.+)" concurency="4" timeout="500" playbackThreshhold="4">
+	<sound logPattern="(.+) gores (.+)" channel="swords" concurency="4" timeout="500" playbackThreshhold="4">
 		<soundFile fileName="hit/stab/stab1.mp3" />
 		<soundFile fileName="hit/stab/stab2.mp3" />
 		<soundFile fileName="hit/stab/stab3.mp3" />
