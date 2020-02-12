@@ -136,6 +136,15 @@
 		<soundFile fileName="gore/chipbreak5.mp3" randomBalance="true" />
 		<soundFile fileName="gore/chipbreak6.mp3" randomBalance="true" />
 	</sound>
+
+	<sound logPattern="(.+) shattering the bone(.+)" haltOnMatch="false" concurency="4" timeout="500" playbackThreshhold="4">
+		<soundFile fileName="gore/chipbreak1.mp3" randomBalance="true" />
+		<soundFile fileName="gore/chipbreak2.mp3" randomBalance="true" />
+		<soundFile fileName="gore/chipbreak3.mp3" randomBalance="true" />
+		<soundFile fileName="gore/chipbreak4.mp3" randomBalance="true" />
+		<soundFile fileName="gore/chipbreak5.mp3" randomBalance="true" />
+		<soundFile fileName="gore/chipbreak6.mp3" randomBalance="true" />
+	</sound>
 	
 	<sound logPattern="(.+), shattering the (.+) and bruising the (.+)!" haltOnMatch="false" concurency="4" timeout="500" playbackThreshhold="4">
 		<soundFile fileName="gore/chipbreak1.mp3" randomBalance="true" />

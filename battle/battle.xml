@@ -1,7 +1,27 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <sounds>
+    <!--
+        Sparring Sounds Begin
+    -->
 
-	<!-- movement -->
+    <sound logPattern="The (marksdwarf|hammerdwarf|axedwarf|speardwarf|swordsdwarf|macedwarf|wrestler|militia commander|captain of the guard|(.+)Lord|Swordmaster|Spearmaster) (strikes at|collides with|charges at|misses|attacks|kicks|bashes|looks surprised by the ferocity of|scratches|bites|punches|strikes) ([T|t]he) (marksdwarf|hammerdwarf|axedwarf|speardwarf|swordsdwarf|macedwarf|wrestler|militia commander|captain of the guard|.+Lord|Swordmaster|Spearmaster).+" concurency="0" timeout="500" playbackThreshhold="5" ansiFormat ="&#27;[30m">
+        <soundFile fileName="" />
+    </sound>
+    <sound logPattern="The (marksdwarf|hammerdwarf|axedwarf|speardwarf|swordsdwarf|macedwarf|wrestler|militia commander|captain of the guard|(.+)Lord|Swordmaster|Spearmaster|pilgrim) (is knocked over|stands up|is no longer stunned|jumps away|bounces backward).+" concurency="0" timeout="500" playbackThreshhold="5" ansiFormat ="&#27;[30m">
+        <soundFile fileName="" />
+    </sound>
+    <sound logPattern="They tangle together and (fall over|tumble forward).+" concurency="0" timeout="500" playbackThreshhold="5" ansiFormat ="&#27;[30m">
+        <soundFile fileName="" />
+    </sound>
+    <sound logPattern="(.+) lightly tapping the target!" concurency="0" timeout="500" playbackThreshhold="5" ansiFormat ="&#27;[30m">
+        <soundFile fileName="" />
+    </sound>    
+
+    <!--
+        Sparring Sounds End
+    -->
+
+    <!-- movement -->
 
 	<sound logPattern="(.+) is propelled away by the force of the blow!" concurency="4" timeout="500" playbackThreshhold="4">
 		<soundFile fileName="hit/bash/bash1.mp3" randomBalance="true" />

@@ -41,10 +41,10 @@
             <file name="190127__tran5ient__splash10.mp3" sha1="3028eef5df157d3b046766b2b0f35663ddfaf8ee" size="33223"/>
             <file name="190128__tran5ient__splash1.mp3" sha1="5c28bfa38fd50201c2a4492fc1dd2bc51997001f" size="34477"/>
          </directory>
-         <file name="actions.xml" sha1="a030b6beabb36136a670efa707b3dd20a0839af0" size="16473"/>
+         <file name="actions.xml" sha1="6879bd36714676342b00b62c33b28e6a1b3f5e93" size="16865"/>
          <file name="adventurer.xml" sha1="b07351e928ba14337a3fb6c49819c12d2abbb091" size="6635"/>
          <file name="ambush.xml" sha1="92105ad193339617f8ad5e47c60ea758daddf67c" size="4579"/>
-         <file name="animal_behavior.xml" sha1="272af5c6f947e6c3b4c341afa17fc5c8c211ee38" size="4624"/>
+         <file name="animal_behavior.xml" sha1="4d9de5571bdd0697294213f7f3cb0122b50ccad5" size="4762"/>
          <file name="combat_actions.xml" sha1="40fec90c16cf63b931d3f4ddcb30527a44525df4" size="3138"/>
          <file name="enviroment.xml" sha1="f79f005954f2689fe841e137c77aea6e98c217c6" size="543"/>
          <file name="speech.xml" sha1="aae7042645777fafae64d0ee8f813ea041f48fe0" size="54309"/>
@@ -155,12 +155,13 @@
          <file name="goose.xml" sha1="aa4d63e9c338205a0585df9c77b6a0b5bdb8d54f" size="5797"/>
          <file name="guineafowl.xml" sha1="9669b675a81d998037572053943e833932584ec2" size="649"/>
          <file name="llama.xml" sha1="21506e97bfb5973e442d6223fb73e57bbbd2c2fb" size="168"/>
+         <file name="octopus.xml" sha1="8b2fef59fc26f8385126b8c7fc324b081bc6c75c" size="224"/>
          <file name="peafowl.xml" sha1="baa786d6e24a259b4395f9ce2a443ee1522d322b" size="279"/>
          <file name="pig.xml" sha1="511044aa6768bd92ce69c0028a22280a90cb4bfb" size="2115"/>
          <file name="rabbit.xml" sha1="ffceb518cb4ed5b59ef84adcbc9f3e99a220039b" size="1705"/>
          <file name="reindeer.xml" sha1="203051ca7829a0cab3c8556e86810b66aec96c89" size="181"/>
          <file name="sheep.xml" sha1="7203de975f32682634085406968c3df186f1ae1d" size="785"/>
-         <file name="training.xml" sha1="b3b070c37d52aae6239d5532ff9491099e01a3bb" size="1275"/>
+         <file name="training.xml" sha1="715b7b2b92c2693239b5845c0ecba7acfa1710fa" size="1524"/>
          <file name="turkey.xml" sha1="a3b437acb7f39feb41c236f46e017aa1a40809be" size="2654"/>
          <file name="vermin.xml" sha1="a76bb3c40394d4e56ad03101b1e430818f9bf061" size="1141"/>
          <file name="yak.xml" sha1="04df6f7ce4e860b52c5ecc40ad4e4c277c98955f" size="1670"/>
@@ -454,11 +455,11 @@
             <file name="swingfist3.mp3" sha1="c2657e0369b214f36a7ead2157fe7ffc5a07f004" size="2965"/>
             <file name="swingfist4.mp3" sha1="1da84be434a6b9e5111e44677b4712aa3555e75a" size="2318"/>
          </directory>
-         <file name="battle.xml" sha1="d8fb5106a66e5142d4d781621a91f4b4e1eca833" size="33367"/>
-         <file name="breath.xml" sha1="9343a6d7ced3effb126d1697fa6e71045f94d273" size="6916"/>
+         <file name="battle.xml" sha1="5ea0b5660349bfb45ca53bc296ee8759ed3c745f" size="34218"/>
+         <file name="breath.xml" sha1="7d0885b609b526a0377ab963b60db5267750d37e" size="8066"/>
          <file name="gore.xml" sha1="bd10c6322dc7b18985d1fb1a754eccb9f2cad64e" size="13300"/>
          <file name="hitevents.xml" sha1="c7f25230c889c1ff4ecdee68df277c1a16cc8b6f" size="16144"/>
-         <file name="status.xml" sha1="99d986ee4c403b5fa7251bd9165609a8ac6233bb" size="11830"/>
+         <file name="status.xml" sha1="f54d7fce77e700e7c26b56fafcf2fc3333ace7cd" size="11914"/>
          <file name="strikes.xml" sha1="01bdf5aca30929616dae5050f58ed2903b68f710" size="8058"/>
       </directory>
       <directory name="deaths">
@@ -485,7 +486,7 @@
          <file name="playlist.m3u" sha1="a1ebd30003875596570872bc33055b7d0562efa6" size="196"/>
          <file name="playlist.pls" sha1="7101529c629f738e7c79e8b007173eee47f8bcbb" size="266"/>
          <file name="readme.txt" sha1="2d0abfdc5b5e46f4b138cff2b8ff987d3641c7ee" size="126"/>
-         <file name="sample.xml" sha1="b052dd316a5d69e8c117d83a2f874e8611106441" size="12990"/>
+         <file name="sample.xml" sha1="1527377cc4c6fd87d66bdc75715f141ca00fd6d0" size="13305"/>
          <file name="Sword Strike And Clash-SoundBible.com-1345262316.mp3" sha1="5476483257cfbef3c02cbf77f0ed40920e4500cf" size="13597"/>
       </directory>
       <directory name="dfhack">
@@ -506,7 +507,7 @@
             <file name="171756__nenadsimic__picked-coin-echo-2.mp3" sha1="9e9c36b5ce6782c56d7286cd39f03f07a0f7731f" size="28667"/>
          </directory>
          <file name="63643__superdaveosbourne__bong.mp3" sha1="47dcc4c86fd0cc29487acdc3468b0047a5e36695" size="90092"/>
-         <file name="dfhack.xml" sha1="d77b673d8dec8f8c7c20e9ef3ed66a983329d5bb" size="4955"/>
+         <file name="dfhack.xml" sha1="6f26461cf0d60d481b9809df74b0f08af0ef7f3c" size="5341"/>
       </directory>
       <directory name="emotion">
          <directory name="voices">
@@ -669,6 +670,11 @@
          <file name="fishing.xml" sha1="1b1ed26fef3a6113265193cd650f34a8f52fa17d" size="427"/>
       </directory>
       <directory name="interactions">
+         <directory name="curse">
+            <file name="133000__cosmicd__hell-s-foundation-b.mp3" sha1="9e5006c87ebd9527c569675ba40a4b2f3cba5f40" size="101198"/>
+            <file name="133001__cosmicd__hell-s-foundations-c.mp3" sha1="99e26688bd3bd4985a93e215bfcd4d54e46c4b96" size="189710"/>
+            <file name="133004__cosmicd__hell-s-foundation-d.mp3" sha1="068bff76a78cfd3b2fe6a558cde0d75915f16851" size="111830"/>
+         </directory>
          <directory name="necromancy">
             <file name="121894__stephensaldanha__magical-effect.mp3" sha1="f260749b96c510f5cc621108dabb4273499d40f7" size="33223"/>
             <file name="20342__corpsehere__zombieme.mp3" sha1="4b3f46103c2fad273c27827172af229288341ad4" size="30716"/>
@@ -679,7 +685,8 @@
             <file name="140491__alienxxx__box-25x25x7-thin-roar-006.mp3" sha1="213536ec848720ceb93442fc51de2bb86c8aacc8" size="33230"/>
          </directory>
          <file name="necromancy.xml" sha1="855e19e36a0ef62b4bf763b3c0e9a02279d8f8e0" size="917"/>
-         <file name="were.xml" sha1="e8a3b0ee610f4d7bb132c52633379cc7f740c622" size="587"/>
+         <file name="vampire.xml" sha1="e0a49a66695b8b2ecb088cee2bd8c735f4c4bdb6" size="957"/>
+         <file name="were.xml" sha1="183fde7dca081603136815ace24dd00edd4d0e7e" size="837"/>
       </directory>
       <directory name="intruders">
          <directory name="breaking">
@@ -788,7 +795,7 @@
          <file name="DFINTROEND.mp3" sha1="91a02b581c7711b6fc6742672b9382c74239634c" size="76698"/>
          <file name="DFPICK.mp3" sha1="fa0fca1efd5761c8e9e83701ede851b81a449467" size="9862"/>
          <file name="DFRUBBLE.mp3" sha1="01ced6e1e1c07c640bc7eec2c044246dc6220298" size="35352"/>
-         <file name="enviromentalHazard.xml" sha1="7b16a544e63a52b83ef8da42de94af813f52e8f1" size="2064"/>
+         <file name="enviromentalHazard.xml" sha1="e50b08c9fffcf8867c57deff56b08c50f2b5d224" size="2358"/>
          <file name="mining.xml" sha1="0c2c55452e32d959a6eeb423244cbeb04d86d89c" size="8816"/>
          <file name="Water Drop-SoundBible.com-2039669379.mp3" sha1="d0ba8f9a340e86f8c16271996fb33281309818ce" size="11617"/>
          <file name="win music 1.mp3" sha1="c15f0c7650e95f3d62c2fe3e5158860184a8247f" size="193369"/>
@@ -895,7 +902,7 @@
          <file name="52173__DJ_Chronos__Moaning_wipe_001.mp3" sha1="b7b27122210d813bf35827eb70ec18ab56c4e971" size="413280"/>
          <file name="66097__the_semen_incident__another_drone.mp3" sha1="a8d3d0b047c71af89acd8ca443629926742830e6" size="111860"/>
          <file name="Evil Laugh Cackle-SoundBible.com-957382653.mp3" sha1="a20683e5b8f5f553733e6719fab4bf52931b142a" size="32266"/>
-         <file name="moods.xml" sha1="e66c1bbc2388cab66c6fcc3909430df74acc0b6e" size="6759"/>
+         <file name="moods.xml" sha1="9a186f938b3d02e4930690a4c8a25a24aa16e49d" size="6981"/>
       </directory>
       <directory name="production">
          <directory name="NotPossible">
@@ -936,7 +943,7 @@
          <file name="cancelations.xml" sha1="5a920076f8b8552f69f036b07735873e212b7450" size="21846"/>
          <file name="Drop Metal Thing-SoundBible.com-401640954.mp3" sha1="5481da6ea954a8d859c65aae1c2a7ddef72dde40" size="11422"/>
          <file name="foodAndDrinkCancelations.xml" sha1="0fab342f3311f88d8c3d79846d0adebc49da9219" size="1856"/>
-         <file name="production.xml" sha1="8c945d6a60a8c7baddbef535348f3a2c51602666" size="4362"/>
+         <file name="production.xml" sha1="b7d66eb7fa17a99c9dcc218d5255df71f00fe164" size="5454"/>
       </directory>
       <directory name="seasons">
          <directory name="alexandrzhelanov">
@@ -1072,8 +1079,8 @@
             <file name="Simon Swerwer-The Tankard Basher.mp3" sha1="8344d04f83660212ab9cfd6be3537b83047955b2" size="3141796"/>
             <file name="Simon Swerwer-Whip Vine.mp3" sha1="8d39ab619d8a8782c42bd3125143cee234851335" size="4953022"/>
             <file name="Simon Swerwer-ZTIQ.mp3" sha1="3ad2cc799b3d41f4f10a4cddf3182b090a2cde73" size="3551566"/>
-            <file name="simon-swerwer_danger-room.mp3" sha1="29e4a86016a338fa08172367fba019821f590f28" size="4436282"/>
-            <file name="simon-swerwer_the-storm-and-the-bounty.mp3" sha1="07bb431eead334e3689262013e684d6da471ea5a" size="4754290"/>
+            <file name="simon-swerwer_danger-room.mp3" sha1="887f7212df8ed24644c6e04cfa33f9e02f4de071" size="4436488"/>
+            <file name="simon-swerwer_the-storm-and-the-bounty.mp3" sha1="c026bb61416bd8a32490906ca081a50d2408992d" size="4754496"/>
             <file name="theelvesofthecoast.mp3" sha1="828f39707febe51f900bd9f79e8671319e605700" size="3443393"/>
          </directory>
          <directory name="spring">
@@ -1167,14 +1174,21 @@
             <file name="29837__HerbertBoland__PianoMood32.mp3" sha1="b484d3e173081e9b43f90b93715cd01de1dad791" size="180007"/>
             <file name="29839__HerbertBoland__PianoMood34.mp3" sha1="a015e782418ca8d1bb48a33e7e975803ffbc6226" size="162035"/>
          </directory>
+         <directory name="visitors">
+            <file name="hotel_bell_1.mp3" sha1="75c272e481c53658dd884513585624597117ffc6" size="33166"/>
+            <file name="hotel_bell_2.mp3" sha1="1b8857ffd8cdfd4224ad2aba957ffb022cd79678" size="41657"/>
+         </directory>
          <directory name="votes">
             <file name="atribution.txt" sha1="40731a38e7afce58ef1a5be02bfd5f1c8ac4615e" size="240"/>
             <file name="paper_mix_1.mp3" sha1="3bcae230fcaac0b4ff08d670f04c58f979d95830" size="90452"/>
             <file name="paper_mix_2.mp3" sha1="3205f1bba7075290034cfbf7e29f7322b5ae1423" size="87836"/>
             <file name="paper_mix_3.mp3" sha1="139139572622e718d5c1a8546e58f97b6aa5447f" size="87140"/>
          </directory>
+         <file name="bell.mp3" sha1="d6b486b4c4bf5c24675491d6548ebe6f8c5db6bc" size="81551"/>
+         <file name="children.xml" sha1="e5c62f2008f0d604bd686d83c7ecabb9495feef7" size="1226"/>
          <file name="missing.xml" sha1="543a38df801cbaab9af1451b3a85cea5cad3322b" size="657"/>
-         <file name="social.xml" sha1="ec9d5eda013645da2b0ccd081abbc5135fbfe910" size="9735"/>
+         <file name="social.xml" sha1="6048a7cd23db28456464e893d5e500c1c03e1cbd" size="11711"/>
+         <file name="visitors.xml" sha1="b00e836bf822d02d5cf476603deb19c33a792520" size="609"/>
       </directory>
       <directory name="system">
          <directory name="embark">
@@ -1191,9 +1205,9 @@
             <file name="embark_11.mp3" sha1="41defbff352c05d6dcf626f63d9b305058ad1036" size="144009"/>
             <file name="embark_12.mp3" sha1="9dea17b8559e78e749769ed11980fafc7afeed01" size="75882"/>
          </directory>
+         <file name="Crypto.mp3" sha1="6321279ad123850d3524572cdfacb3b274ce4b17" size="6532661"/>
          <file name="Radakan - Moldan Chase over (success).mp3" sha1="cb314402bf45bb787aa572967c09ab26e28d9f09" size="69797"/>
-         <file name="system.xml" sha1="017b1bcdebc167f9a50e7e210bdada5d882f3304" size="12809"/>
-         <file name="worldgen.mp3" sha1="cb67d30029d2a3233be228f278ac579d7ea6a62a" size="5410123"/>
+         <file name="system.xml" sha1="350ffaf377e2e6b0d4848e3e4868217eb893ad96" size="12941"/>
       </directory>
       <directory name="trading">
          <directory name="humans">
@@ -1217,7 +1231,7 @@
          <file name="85796__sandyrb__TUBULAR_BELL_STRIKE_002.mp3" sha1="38fb9f242eed92122a79ade3b8937e5e87b19a82" size="113182"/>
          <file name="85803__sandyrb__TUBULAR_BELL_STRIKE_009.mp3" sha1="168c7b5aa5d5f31fd90e688b484c9021f8bf0f90" size="113566"/>
          <file name="92656__bourotte2__DoubleHorseCartGheorghieni.mp3" sha1="481eaf249ad09a70cf73e14c77744a2ffc4d0d63" size="622208"/>
-         <file name="trading.xml" sha1="96de3de664a25c79715a882a0949794ce27aed56" size="3933"/>
+         <file name="trading.xml" sha1="812ca0335805d13e3b5317c844eb342cf2403b5e" size="4010"/>
       </directory>
       <directory name="weather">
          <directory name="goreRain">
@@ -1241,7 +1255,6 @@
          </directory>
          <file name="weather.xml" sha1="aeff0124ebbbed224e32d3bdf0a450244bda0f88" size="2290"/>
       </directory>
-      <file name=".dropbox.attr" sha1="bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f" size="2"/>
-      <file name="autoUpdater.xml" sha1="27dc7cdbd0c3ee1b375d03f38585ccf9dfb53a75" size="115296"/>
+      <file name="autoUpdater.xml" sha1="45328223b0bc4983941a7eef45e6721821a0207c" size="115498"/>
    </directory>
 </autoUpdater>

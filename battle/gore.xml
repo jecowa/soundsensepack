@@ -140,7 +140,7 @@
 	<sound logPattern="A tendon has been strained!">
 	</sound>
 	
-	<sound logPattern="A tendon in the (.+) has been bruised!" concurency="5" timeout="250" playbackThreshhold="4">
+	<sound logPattern="(.+) tendon(.+)has been bruised!" concurency="5" timeout="250" playbackThreshhold="4">
 		<soundFile fileName="gore/bruise1.mp3" randomBalance="true" />
 		<soundFile fileName="gore/bruise2.mp3" randomBalance="true" />
 		<soundFile fileName="gore/bruise3.mp3" randomBalance="true" />
@@ -165,7 +165,7 @@
 		<soundFile fileName="hit/bash/bash12.mp3" randomBalance="true" />
 	</sound>
 	
-	<sound logPattern="(.+) takes the full force of the impact and the part splits in gore!" concurency="5" timeout="250" playbackThreshhold="4">
+	<sound logPattern="(.+) and the (.+) splits in gore!" concurency="5" timeout="250" playbackThreshhold="4">
 		<soundFile fileName="hit/bash/bash1.mp3" randomBalance="true" />
 		<soundFile fileName="hit/bash/bash2.mp3" randomBalance="true" />
 		<soundFile fileName="hit/bash/bash3.mp3" randomBalance="true" />
@@ -195,6 +195,21 @@
 		<soundFile fileName="hit/bash/bash12.mp3" randomBalance="true" />
 	</sound>
 	
+	<sound logPattern="(.+) and the injured part is crushed!" concurency="5" timeout="250" playbackThreshhold="4">
+		<soundFile fileName="hit/bash/bash1.mp3" randomBalance="true" />
+		<soundFile fileName="hit/bash/bash2.mp3" randomBalance="true" />
+		<soundFile fileName="hit/bash/bash3.mp3" randomBalance="true" />
+		<soundFile fileName="hit/bash/bash4.mp3" randomBalance="true" />
+		<soundFile fileName="hit/bash/bash5.mp3" randomBalance="true" />
+		<soundFile fileName="hit/bash/bash6.mp3" randomBalance="true" />
+		<soundFile fileName="hit/bash/bash7.mp3" randomBalance="true" />
+		<soundFile fileName="hit/bash/bash8.mp3" randomBalance="true" />
+		<soundFile fileName="hit/bash/bash9.mp3" randomBalance="true" />
+		<soundFile fileName="hit/bash/bash10.mp3" randomBalance="true" />
+		<soundFile fileName="hit/bash/bash11.mp3" randomBalance="true" />
+		<soundFile fileName="hit/bash/bash12.mp3" randomBalance="true" />
+	</sound>
+
 	<sound logPattern="(.+) in the (.+) with (.+) and the injured part is cloven asunder!" concurency="5" timeout="250" playbackThreshhold="4">
 		<soundFile fileName="hit/bash/bash1.mp3" randomBalance="true" />
 		<soundFile fileName="hit/bash/bash2.mp3" randomBalance="true" />
