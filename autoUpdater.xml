@@ -455,12 +455,12 @@
             <file name="swingfist3.mp3" sha1="c2657e0369b214f36a7ead2157fe7ffc5a07f004" size="2965"/>
             <file name="swingfist4.mp3" sha1="1da84be434a6b9e5111e44677b4712aa3555e75a" size="2318"/>
          </directory>
-         <file name="battle.xml" sha1="5ea0b5660349bfb45ca53bc296ee8759ed3c745f" size="34218"/>
-         <file name="breath.xml" sha1="7d0885b609b526a0377ab963b60db5267750d37e" size="8066"/>
-         <file name="gore.xml" sha1="bd10c6322dc7b18985d1fb1a754eccb9f2cad64e" size="13300"/>
-         <file name="hitevents.xml" sha1="c7f25230c889c1ff4ecdee68df277c1a16cc8b6f" size="16144"/>
-         <file name="status.xml" sha1="f54d7fce77e700e7c26b56fafcf2fc3333ace7cd" size="11914"/>
-         <file name="strikes.xml" sha1="01bdf5aca30929616dae5050f58ed2903b68f710" size="8058"/>
+         <file name="battle.xml" sha1="77d26df33dc51ac6109755a6ae2df3f90483ce86" size="36910"/>
+         <file name="breath.xml" sha1="6effa04f07585c51b9e5e214b3be7b0cd4e930e5" size="8321"/>
+         <file name="gore.xml" sha1="4c87ecf909187360f9b2648dcc81ee43b3e3d6dc" size="14544"/>
+         <file name="hitevents.xml" sha1="049fca20b902f5f4725ab183793659bc484d1978" size="17188"/>
+         <file name="status.xml" sha1="40f2271c656c51aa4b4aee782465b7fb90ddf672" size="12883"/>
+         <file name="strikes.xml" sha1="b637a0c94d9d38ca5f306c418e0f79b1cd36b75e" size="8296"/>
       </directory>
       <directory name="deaths">
          <directory name="founddead">
@@ -478,16 +478,6 @@
          <file name="gutwrenching_scream.mp3" sha1="b411333f23d50af8f95e020bc1105ab9e6c91999" size="74460"/>
          <file name="slaughtering.xml" sha1="be6d9a0a44d0a45cda5497c992c99237e33e59bc" size="408"/>
          <file name="WilhelmScream_vbr.mp3" sha1="6fa6a10025fd5bd669d2c826c88b649f225e7292" size="31337"/>
-      </directory>
-      <directory name="default">
-         <file name="85791__sandyrb__NATIVE_FLUTE_FIGURE_02.wav" sha1="8d69fdf790bcbfbdebba0e26e5729a15a7b8a1f6" size="44792"/>
-         <file name="customHost.xml" sha1="fe7ce1c4f576f6afd31df03742f20010f59ee23a" size="151"/>
-         <file name="Drop Metal Thing-SoundBible.com-401640954.ogg" sha1="49d8715067c538c7a29de2ded7c10f870488d75b" size="14781"/>
-         <file name="playlist.m3u" sha1="a1ebd30003875596570872bc33055b7d0562efa6" size="196"/>
-         <file name="playlist.pls" sha1="7101529c629f738e7c79e8b007173eee47f8bcbb" size="266"/>
-         <file name="readme.txt" sha1="2d0abfdc5b5e46f4b138cff2b8ff987d3641c7ee" size="126"/>
-         <file name="sample.xml" sha1="1527377cc4c6fd87d66bdc75715f141ca00fd6d0" size="13305"/>
-         <file name="Sword Strike And Clash-SoundBible.com-1345262316.mp3" sha1="5476483257cfbef3c02cbf77f0ed40920e4500cf" size="13597"/>
       </directory>
       <directory name="dfhack">
          <directory name="build">
@@ -1255,6 +1245,6 @@
          </directory>
          <file name="weather.xml" sha1="aeff0124ebbbed224e32d3bdf0a450244bda0f88" size="2290"/>
       </directory>
-      <file name="autoUpdater.xml" sha1="45328223b0bc4983941a7eef45e6721821a0207c" size="115498"/>
+      <file name="autoUpdater.xml" size="115624"/>
    </directory>
 </autoUpdater>
