@@ -647,7 +647,7 @@
             <file name="Question2_4.mp3" sha1="b524c7c06c269bc1e29f03002d76a79a1c0ec6a7" size="48440"/>
             <file name="Question2_5.mp3" sha1="a5760dde47c0231d538ed0068af46652f5008a42" size="20896"/>
          </directory>
-         <file name="emotion.xml" sha1="370b7f663bbbc28e0db871a1d7d93e0ed6a91452" size="30005"/>
+         <file name="emotion.xml" sha1="41212a745fb57177757b8ca7ced9067c4b9fdc3f" size="30005"/>
       </directory>
       <directory name="fishing">
          <directory name="NoFish">
