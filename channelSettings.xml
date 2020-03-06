@@ -1,0 +1,20 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<!--
+========= Instructions =========
+
+How the channel will play sounds:
+
+ * "all": will play all sounds.
+ * "singleEager": will play one sound at a time, and will pause/stop the current playing sounds when a new sound is triggered.
+ * "singleLazy": will play one sound at a time, and will ignore new sounds when already playing a sound.
+
+========= Settings =========
+-->
+
+<channelSettings>
+	<channelSetting name="music" playType="singleEager"/>
+	<channelSetting name="weather" playType="singleEager"/>
+	<channelSetting name="feelings" playType="all"/>
+	<channelSetting name="trade" playType="singleLazy"/>
+	<channelSetting name="combat" playType="all"/>
+</channelSettings>
