@@ -212,7 +212,7 @@
 		<soundFile fileName="10s_silence.mp3" weight="200" />
 	</sound>
 
-	<sound logPattern="The wet season has arrived!">
+	<sound logPattern="The wet season has arrived!" loop="start" channel="music" playbackThreshhold="0">
 
 		<soundFile fileName="spring/Willow and the Light.mp3" />
 		<soundFile fileName="spring/Savannah Sketch.mp3" />
@@ -256,7 +256,7 @@
 
 	</sound>
 
-	<sound logPattern="The dry season has come\.">
+	<sound logPattern="The dry season has come\." loop="start" channel="music" playbackThreshhold="0">
 
 		<soundFile fileName="autumn/The Pyre.mp3" />
 		<soundFile fileName="autumn/Temple of the Manes.mp3" />
